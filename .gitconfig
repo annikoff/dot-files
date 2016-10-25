@@ -14,4 +14,3 @@
         tool = meld
 [mergetool]
         keepBackup = false
-~                           
