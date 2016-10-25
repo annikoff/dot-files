@@ -10,3 +10,8 @@
 	unstage = reset HEAD --
 	last = log -1 HEAD
 	visual = !gitg
+[merge]
+        tool = meld
+[mergetool]
+        keepBackup = false
+~                           
