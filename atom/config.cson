@@ -1,0 +1,17 @@
+"*":
+  core:
+    telemetryConsent: "no"
+    themes: [
+      "atom-dark-ui"
+      "smyck"
+    ]
+  "exception-reporting":
+    userId: "cbde930e-20c8-4a55-85bc-3b077b62bbc4"
+  "platformio-ide-terminal":
+    ansiColors:
+      normal:
+        black: "#2d2c26"
+    customTexts: {}
+    style: {}
+  welcome:
+    showOnStartup: false
