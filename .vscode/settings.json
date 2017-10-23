@@ -21,5 +21,7 @@
         "**/files": true
     },
     "editor.renderWhitespace": "all",
-    "explorer.openEditors.visible": 30
+    "explorer.openEditors.visible": 30,
+    "terminal.integrated.fontSize": 12,
+    "terminal.integrated.scrollback": 10000
 }
