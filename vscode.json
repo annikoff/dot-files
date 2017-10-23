@@ -1,0 +1,25 @@
+{
+    "workbench.colorTheme": "Monokai",
+    "editor.tabSize": 2,
+    "files.autoSave": "afterDelay",
+    "editor.fontSize": 12,
+    "editor.wordWrapColumn": 120,
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/CVS": true,
+        "**/.DS_Store": true,
+        "**/.idea": true
+    },
+    "files.trimTrailingWhitespace": true,
+    "files.trimFinalNewlines": true,
+    "search.exclude": {
+        "**/node_modules": true,
+        "**/bower_components": true,
+        "**/log": true,
+        "**/files": true
+    },
+    "editor.renderWhitespace": "all",
+    "explorer.openEditors.visible": 30
+}
