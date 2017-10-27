@@ -23,5 +23,8 @@
     "editor.renderWhitespace": "all",
     "explorer.openEditors.visible": 30,
     "terminal.integrated.fontSize": 12,
-    "terminal.integrated.scrollback": 10000
+    "terminal.integrated.scrollback": 10000,
+    "workbench.startupEditor": "newUntitledFile",
+    "window.openFoldersInNewWindow": "on",
+    "explorer.autoReveal": false
 }
